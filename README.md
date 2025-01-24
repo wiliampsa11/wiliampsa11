@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning about Vue.js
+I'm currently creating a discord bot
 
 
 ## 🌐 Socials:
