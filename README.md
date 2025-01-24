@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning about React
+I'm currently learning about Vue.js
 
 
 ## 🌐 Socials:
