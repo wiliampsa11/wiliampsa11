@@ -1,8 +1,8 @@
 # Hola, soy Uíliam 👋
 
-Desarrollador web formado en **DAW**, **ASIX** y **SMX**. Me gusta construir webs completas, desde la maqueta en HTML y CSS hasta el backend en PHP o Node.js.
+Desarrollador **Backend / Fullstack Junior** (PHP · Laravel · Python · SQL), formado en **DAW**, **ASIR** y **SMR**, con más de 3 años de experiencia en IT corporativo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uíliam-mateu-3770a722a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uiliam-mateu-3770a722a)
 [![CV web](https://img.shields.io/badge/CV-web-222?logo=googlechrome&logoColor=white)](https://wiliampsa11.github.io/cv/)
 
 ## 🚀 Proyectos destacados
